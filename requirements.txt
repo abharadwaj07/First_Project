@@ -3,5 +3,6 @@ pandas
 numpy
 seaborn
 ipykernel
+scikit-learn
 
 -e .
